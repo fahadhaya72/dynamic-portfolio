@@ -1,1 +1,5 @@
+gem install jekyll bundler  # Install Jekyll
+jekyll new my-site          # Create a new site
+cd my-site
+bundle exec jekyll serve    # Serve the site locally
 
