@@ -2,7 +2,7 @@
 
 COMPLETE PORTFOLIO WEBSITE &lt; HTML > { CSS } ( JavaScript )
 
-The fruit of patience is sweet. Let's [check the webpage.](https://shu-vro.github.io/COMPLETE-PORTFOLIO-WEBSITE/)
+The fruit of patience is sweet. Let's [check the webpage.](https://snazzy-granita-3157c8.netlify.app/)
 
 _DISCLAIMER: YOU SHOULD USE VITE FOR DEVELOPMENT AND PRODUCTION. to deploy using github pages, visit [vite](https://vitejs.dev/guide/static-deploy#github-pages)_
 
